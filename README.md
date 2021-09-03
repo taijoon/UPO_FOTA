@@ -1,4 +1,5 @@
 # UPO_FOTA
+ - FOTA(Firmware Over The Air)란 원격지에 있는 다수의 디바이스의 펌웨어 업데이트를 위한 기술
  - Date : 2021-09-03
 
 ## Reference link : 
