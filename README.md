@@ -1,7 +1,7 @@
 # UPO_FOTA
  - Date : 2021-09-03
 
-## reference link : 
+## Reference link : 
 
 ## Hardware : 
 
